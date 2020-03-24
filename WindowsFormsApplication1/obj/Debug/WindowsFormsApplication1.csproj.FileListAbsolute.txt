@@ -1,0 +1,169 @@
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.createfile.resources
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+c:\users\bebob\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ur.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.creatfile.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ur.resources
+C:\Users\DELL\Desktop\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.creatfile.resources
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ur.resources
+C:\Users\DELL\Desktop\bebo3\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.creatfile.resources
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.ur.resources
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.remove.resources
+F:\2nd year\Files\projects\bebo4\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RemoveOrUpdate.resources
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.creatfile.resources
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.remove.resources
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RemoveOrUpdate.resources
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\bebo5\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update.resources
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.creatfile.resources
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.remove.resources
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RemoveOrUpdate.resources
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update.resources
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\bebo6\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.join.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.creatfile.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.join.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.remove.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RemoveOrUpdate.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update.resources
+C:\Users\DELL\Desktop\bebo7\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\bebo8\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\bebo8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\bebo8\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.creatfile.resources
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.join.resources
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.remove.resources
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RemoveOrUpdate.resources
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update.resources
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\2nd year\Files\projects\project el file el hytslm\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view_movie.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.creatfile.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.join.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.movie_show.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.remove.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RemoveOrUpdate.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view_movie.resources
+C:\Users\poula atef\Desktop\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\Interop.WMPLib.dll
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AxInterop.WMPLib.dll
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.addmovie.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.creatfile.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.join.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.movie_show.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.remove.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.RemoveOrUpdate.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.search.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.update.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view_movie.resources
+F:\Projects\Movie Guide\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Poula Atef\Desktop\Movie Guid\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Poula Atef\Desktop\Movie Guid\WindowsFormsApplication1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Poula Atef\Desktop\Movie Guid\WindowsFormsApplication1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Poula Atef\Desktop\Movie Guid\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.ResolveComReference.cache
+C:\Users\Poula Atef\Desktop\Movie Guid\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Poula Atef\Desktop\Movie Guid\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
